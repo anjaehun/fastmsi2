@@ -3,7 +3,7 @@ package com.example.fastmsi2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
- // 2023.07.05
+ // 2023.07.05 코드 시간
 @SpringBootApplication
 public class Fastmsi2Application {
 
